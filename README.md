@@ -1,4 +1,4 @@
-### :man_technologist: Olá, eu sou o Eduardo Lacalle! Bem vindo ao meu GitHub 👋 
+### :man_technologist: Olá, eu sou o João Junior! Bem vindo ao meu GitHub 👋 
 
 ||Desenvolvedor Java Full Stack||
 
