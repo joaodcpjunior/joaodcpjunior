@@ -25,7 +25,7 @@
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodcpjunior&layout=compact&theme=vision-friendly-dark" />
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=joaodcpjunior&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joaodcpjunior/joaodcpjunior/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Eduardo Lacalle/Eduardo Lacalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
